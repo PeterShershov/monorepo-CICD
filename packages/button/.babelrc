@@ -1,0 +1,11 @@
+{
+	"presets": [
+		"@babel/preset-react",
+		"minify"
+	],
+	"plugins": [
+		"@babel/plugin-syntax-object-rest-spread",
+		"transform-class-properties",
+		"css-modules-transform"
+	]
+}

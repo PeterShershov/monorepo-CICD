@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input component Input changes style when active 1`] = `
+<input
+  className="input input_active"
+  onChange={[Function]}
+  value="TEST"
+/>
+`;
