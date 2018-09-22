@@ -7,7 +7,7 @@ node_js:
 
 cache: yarn
 
-scripts:
-	- yarn lint
-	- yarn test
-	- yarn release
+script:
+	yarn lint
+	yarn test
+	yarn release
