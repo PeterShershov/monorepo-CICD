@@ -9,6 +9,6 @@ cache:
 yarn: true
 
 script:
-	- yarn lint
-	- yarn test
-	- yarn release
+	yarn lint
+	yarn test
+	yarn release
