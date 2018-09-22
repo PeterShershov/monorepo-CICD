@@ -19,6 +19,7 @@ export default class Button extends PureComponent {
         })}
         onClick={this.handleClick}
       >
+	  TEST
         {this.props.children}
       </button>
     );
