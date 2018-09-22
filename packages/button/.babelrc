@@ -1,7 +1,6 @@
 {
 	"presets": [
-		"@babel/preset-react",
-		"minify"
+		"@babel/preset-react"
 	],
 	"plugins": [
 		"@babel/plugin-syntax-object-rest-spread",
