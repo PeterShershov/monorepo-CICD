@@ -1,0 +1,18 @@
+{
+	"plugins": [
+		"prettier",
+		"react"
+	],
+	"rules": {
+		"prettier/prettier": "error",
+		"no-unused-vars": 2,
+		"react/no-unescaped-entities": 1,
+		"react/prop-types": 0,
+		"react/display-name": 0
+	},
+	"extends": [
+		"prettier",
+		"plugin:react/recommended"
+	],
+	"parser": "babel-eslint"
+}
