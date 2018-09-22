@@ -7,11 +7,7 @@ node_js:
 
 cache: yarn
 
-jobs:
-  include:
-    - stage: "Linting"
-      script: yarn lint
-    - stage: "Testing"
-      script: yarn test
-    - stage: "Publishing"
-      script: yarn release
+scripts:
+	- yarn lint
+	- yarn test
+	- yarn release
