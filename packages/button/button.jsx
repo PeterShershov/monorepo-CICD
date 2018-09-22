@@ -15,6 +15,7 @@ export default class Button extends PureComponent {
 			<button
 				className={classnames(styles.button, { [styles.button_active]: this.state.isActive })}
 				onClick={this.handleClick}>
+				Test
 				{this.props.children}
 			</button>
 		)
