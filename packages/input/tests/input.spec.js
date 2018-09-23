@@ -1,7 +1,7 @@
 import React from "react";
 import renderer from "react-test-renderer";
 
-import Input from "../input";
+import Input from "../src/input";
 
 describe("Input component", () => {
   test("Input changes style when active", () => {
