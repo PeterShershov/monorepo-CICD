@@ -2,7 +2,7 @@
 
 # sample-monorepo
 
-Opinoinated monorepo base configuration
+javascript fatigue at its best 💃
 
  - [x] - lerna
  - [x] - babel 7 
