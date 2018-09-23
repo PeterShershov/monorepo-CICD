@@ -2,7 +2,7 @@
 
 # sample-monorepo
 
-javascript fatigue at its best 💃
+Opinionated monorepo configuration with CI/CD in mind
 
  - [x] - lerna
  - [x] - babel 7 
