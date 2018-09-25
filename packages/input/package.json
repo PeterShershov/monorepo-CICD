@@ -1,6 +1,6 @@
 {
 	"name": "@petershershov/input",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "lib/cjs/input.js",
 	"module": "lib/esm/input.js",
 	"license": "MIT",

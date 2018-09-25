@@ -1,6 +1,6 @@
 {
 	"name": "@petershershov/button",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "lib/cjs/button.js",
 	"module": "lib/esm/button.js",
 	"license": "MIT",
