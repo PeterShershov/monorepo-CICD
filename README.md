@@ -15,3 +15,7 @@ Opinionated monorepo configuration with CI/CD in mind
  - [x] - storybook
  - [x] - jest
  - [x] - enzyme
+
+Known limitations:
+Imports by packahe name are not available due to the `main` property in each `package.json`.
+Need to find a solution for deployment and dev mode.
