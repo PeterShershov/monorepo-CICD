@@ -18,4 +18,5 @@ Opinionated monorepo configuration with CI/CD in mind
 
 Known limitations:
 Imports by packahe name are not available due to the `main` property in each `package.json`.
-Need to find a solution for deployment and dev mode.
+
+Need to ensure an optimal configuration for dev-mode and deployment.
