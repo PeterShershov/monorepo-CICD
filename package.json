@@ -9,7 +9,8 @@
     "test:watch": "jest --config config/jest/jest.config.json --watchAll",
     "lint": "eslint --ext js --ext jsx ./packages",
     "lint:dev": "eslint --ext js --ext jsx ./packages --fix",
-    "deploy": "lerna publish --conventional-commits --yes --registry https://registry.npmjs.org/"
+    "deploy": "run-p build deploy:semver",
+    "deploy:semver": "lerna publish --conventional-commits --yes --registry https://registry.npmjs.org/"
   },
   "workspaces": [
     "packages/*"
