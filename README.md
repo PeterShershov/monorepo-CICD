@@ -16,7 +16,7 @@ Opinionated monorepo configuration with CI/CD in mind
  - [x] - jest
  - [x] - enzyme
 
-Known limitations:
+## Known limitations
 Imports by package name are not available due to the `main` property in each `package.json` that points at the build artifact.
 
 Need to ensure an optimal configuration for dev-mode and deployment.
