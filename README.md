@@ -12,7 +12,6 @@ Opinionated monorepo configuration with CI/CD in mind
  - [x] - css-modules
  - [x] - scss
  - [x] - classnames
- - [x] - storybook
  - [x] - jest
  - [x] - enzyme
 
