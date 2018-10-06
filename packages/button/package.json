@@ -1,6 +1,6 @@
 {
   "name": "@petershershov/button",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "src/button.js",
   "module": "cjs/button.js",
   "license": "MIT",
