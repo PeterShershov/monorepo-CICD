@@ -14,10 +14,10 @@ export default class Button extends PureComponent {
   render() {
     return (
       <button
+        onClick={this.handleClick}
         className={classnames(styles.button, {
           [styles.button_active]: this.state.isActive
         })}
-        onClick={this.handleClick}
       >
         {this.props.children}
       </button>
