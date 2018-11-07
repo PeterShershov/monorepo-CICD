@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/PeterShershov/sample-monorepo.svg?branch=master)](https://travis-ci.com/PeterShershov/sample-monorepo)
 
-# sample-monorepo
+# monorepo-CICD
 
 Opinionated monorepo configuration with CI/CD in mind
 
